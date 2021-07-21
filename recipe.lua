@@ -1,0 +1,1 @@
+../../factorio/data/base/prototypes/recipe.lua
